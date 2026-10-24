@@ -14,7 +14,7 @@ Fixes excessively spaced Cyrillic text when **High Resolution Font** is enabled 
 
 To revert, restore your backed-up `font_ru_hd.itf`.
 
-## Alternate installatiow way
+## Alternate installation way
 
 1. Download already pathed `patch_cs1_ru_hd.itf` from this reposetory.
 2. Place the downloaded `patch_cs1_ru_hd.itf` alongside `data/fonts/font_ru_hd.itf` in the game directory.
