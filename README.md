@@ -16,7 +16,7 @@ To revert, restore your backed-up `font_ru_hd.itf`.
 
 ## Alternate installation way
 
-1. Download already pathed `patch_cs1_ru_hd.itf` from this reposetory.
+1. Download already pathed `patch_cs1_ru_hd.itf` from this repository.
 2. Place the downloaded `patch_cs1_ru_hd.itf` alongside `data/fonts/font_ru_hd.itf` in the game directory.
 3. Back up original `data/fonts/font_ru_hd.itf` in your game directory.
 4. Rename the downloaded `cs1_russian_hd_font_fix.itf` to `font_ru_hd.itf`.
